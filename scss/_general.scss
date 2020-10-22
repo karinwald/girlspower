@@ -33,4 +33,16 @@
     min-width: 15em;
     min-height: 15em;
     flex-wrap: wrap;
+    font-size: x-large;
+    
+  }
+  .box:first-child {
+    background-color: lightpink;
+    padding-left: 5em;
+    
+  }
+  .box:last-child{
+    background-color : lightseagreen;
+    padding-top: 7em ;
+    
   }
